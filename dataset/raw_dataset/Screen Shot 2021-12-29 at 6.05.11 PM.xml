@@ -1,0 +1,50 @@
+<annotation>
+	<folder>raw_dataset</folder>
+	<filename>Screen Shot 2021-12-29 at 6.05.11 PM.png</filename>
+	<path>/Users/jacobzietek/Documents/ring-detection/dataset/raw_dataset/Screen Shot 2021-12-29 at 6.05.11 PM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>632</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>134</ymin>
+			<xmax>192</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>533</xmin>
+			<ymin>238</ymin>
+			<xmax>573</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>236</ymin>
+			<xmax>606</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
